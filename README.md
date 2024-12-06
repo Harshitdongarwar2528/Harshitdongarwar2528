@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **“I’m currently working on Data Structures and Algorithms in Java.”**
 
-- 💬 Ask me about **Html,Css,JavaScript**
+- 💬 Ask me about **Html,BootStrap,Css,JavaScript**
 
 - 📫 How to reach me **harshitdongarwar2003@gmail.com**
 
